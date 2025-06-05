@@ -1,0 +1,13 @@
+{
+  "name": "simple-llm",
+  "engineVersion": "v0.18.9",
+  "sdk": {
+    "source": "python"
+  },
+  "dependencies": [
+    {
+      "name": "toolbox",
+      "source": "toolbox"
+    }
+  ]
+}
